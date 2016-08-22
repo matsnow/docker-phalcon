@@ -1,0 +1,6 @@
+[apcu]
+extension=apcu.so
+[phalcon]
+extension=phalcon.so
+
+always_populate_raw_post_data=-1
